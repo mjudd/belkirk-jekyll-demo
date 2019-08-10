@@ -42,5 +42,5 @@ fields:
     required: false
     wysiwyg: true
     schema:
-      format: html
+      format: html-blocks
   label: Expertise
