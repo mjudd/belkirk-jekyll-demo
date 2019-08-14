@@ -3,7 +3,7 @@ title: Charlizé Babatunde
 date: '2017-11-14T10:54:31.000+00:00'
 role:
 - staff
-thumbnail: "/uploads/2017/11/14/william-stitt-162611.jpg"
+thumbnail: "/uploads/2018/02/25/car.jpg"
 sub_heading: Administration
 email: ''
 linkedin: ''
