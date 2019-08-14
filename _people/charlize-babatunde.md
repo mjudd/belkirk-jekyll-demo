@@ -20,4 +20,4 @@ expertise: "I'm spouting about my **expertise** here. \n\n> **Lavish** praise go
 ---
 Charlizé Babatunde joined Belkirk in 2015 as Head of Administration.
 
-Charlizé graduated with a master's degree in Industrial and Labor Relations and master's degree in Business Administration from Cornell in 2008, and worked with various non-profits before joining Belkirk..
+Charlizé graduated with a master's degree in Industrial and Labor Relations and master's degree in Business Administration from Cornell in 2008, and worked with various non-profits before joining Belkirk.
