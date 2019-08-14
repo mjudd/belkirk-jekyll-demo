@@ -14,8 +14,8 @@ rtf: |-
   and it's stored **how**?
 
   Why isn't this updated?
-expertise: "<p>I'm spouting about my <em>expertise</em> here.</p><blockquote><p>Lavish
-  praise</p></blockquote>"
+expertise: I'm spouting about my <em>expertise</em> here. <strong>Lavish</strong>
+  praise goes <em>here</em>.
 
 ---
 Charlize Babatunde joined Belkirk in 2015 as Head of Administration.
