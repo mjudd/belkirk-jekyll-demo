@@ -44,3 +44,13 @@ fields:
     schema:
       format: html-blocks
   label: Expertise
+- name: rtf
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: rtf
+  description: Another content field
