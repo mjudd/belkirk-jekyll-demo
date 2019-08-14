@@ -25,3 +25,5 @@ fields:
     schema:
       format: markdown
   label: Content2
+pages:
+- _PersonLike/entity1.md
