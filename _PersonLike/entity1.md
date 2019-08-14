@@ -1,5 +1,5 @@
 ---
-title: Entity1
+title: Person One
 content1: There's some rich **text** here.
 content2: |-
   And also here.
