@@ -1,5 +1,5 @@
 ---
-title: Charlize Babatunde
+title: Charlizé Babatunde
 date: '2017-11-14T10:54:31.000+00:00'
 role:
 - staff
