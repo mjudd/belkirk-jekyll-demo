@@ -8,7 +8,10 @@ sub_heading: Administration
 email: ''
 linkedin: ''
 layout: person
-rtf: and this is the RTF value
+rtf: |-
+  and this is the RTF value
+
+  and it's stored **how**?
 expertise: "<p>I'm spouting about my <em>expertise</em> here.</p><blockquote><p>Lavish
   praise</p></blockquote>"
 
