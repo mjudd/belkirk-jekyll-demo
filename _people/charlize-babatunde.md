@@ -12,6 +12,8 @@ rtf: |-
   and this is the RTF value
 
   and it's stored **how**?
+
+  Why isn't this updated?
 expertise: "<p>I'm spouting about my <em>expertise</em> here.</p><blockquote><p>Lavish
   praise</p></blockquote>"
 
