@@ -25,19 +25,21 @@ sections:
   templates:
   - person
 - type: directory
-  path: _PersonLike
-  label: Persons
-  create: all
-  match: "*"
-  templates:
-  - personlike
-- type: directory
   path: _projects
   label: Projects
   create: all
   match: "*"
   templates:
   - project
+- type: heading
+  label: My Experiments
+- type: directory
+  path: _PersonLike
+  label: Persons
+  create: all
+  match: "*"
+  templates:
+  - personlike
 - type: document
   path: _data/information.yml
   label: Contact Information
