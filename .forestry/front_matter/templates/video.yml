@@ -45,4 +45,5 @@ fields:
   label: Transcript
   description: VTT format extended with our specialized markup
 pages:
+- _videos/how-a-graph-runs.md
 - _videos/integration-with-yarn-for-hadoop.md
