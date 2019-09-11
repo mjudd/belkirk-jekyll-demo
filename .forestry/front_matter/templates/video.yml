@@ -44,3 +44,5 @@ fields:
       format: markdown
   label: Transcript
   description: VTT format extended with our specialized markup
+pages:
+- _videos/integration-with-yarn-for-hadoop.md
