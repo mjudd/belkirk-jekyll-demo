@@ -5,7 +5,7 @@ topics: []
 title: How a Graph Runs
 blurb: |-
   What happens on the Co>Operating System run host and processing hosts after
-  you click **The run** button to start a graph?
+  you click the run button to start a graph?
 video: ''
 poster: "/uploads/2019/09/11/vidframe_cos_how_a_graph_runs_196x128.png"
 transcript: |
